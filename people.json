@@ -1,0 +1,27 @@
+[
+  { "name": "George", "surname": "Aguillera", "gender": "male", "age": 13 },
+  { "name": "George", "surname": "Michael", "gender": "male", "age": 17 },
+  { "name": "Krystyna", "surmane": "Michael", "gender": "female", "age": 70 },
+  { "name": "Diana", "surmane": "Michael", "gender": "female", "age": 30 },
+  { "name": "Michael", "surname": "Cobain", "gender": "male", "age": 3 },
+  { "name": "Ola", "surmane": "Aguillera", "gender": "female", "age": 27 },
+  { "name": "Krystyna", "surmane": "Aguillera", "gender": "female", "age": 37 },
+  {
+    "name": "Christina",
+    "surmane": "Kaczyński",
+    "gender": "female",
+    "age": 54
+  },
+  { "name": "Jarosław", "surname": "Czubówna", "gender": "male", "age": 40 },
+  { "name": "Kurt", "surname": "Czubówna", "gender": "male", "age": 98 },
+  { "name": "Krystyna", "surmane": "Cobain", "gender": "female", "age": 92 },
+  { "name": "Jarosław", "surname": "Jackson", "gender": "male", "age": 44 },
+  { "name": "Ola", "surmane": "Jackson", "gender": "female", "age": 20 },
+  { "name": "Krystyna", "surmane": "Cobain", "gender": "female", "age": 87 },
+  { "name": "Kurt", "surname": "Cobain", "gender": "male", "age": 13 },
+  { "name": "Ola", "surmane": "Aguillera", "gender": "female", "age": 16 },
+  { "name": "Diana", "surmane": "Czubówna", "gender": "female", "age": 5 },
+  { "name": "Ola", "surmane": "Jackson", "gender": "female", "age": 51 },
+  { "name": "Michael", "surname": "Czubówna", "gender": "male", "age": 66 },
+  { "name": "Ola", "surmane": "Cobain", "gender": "female", "age": 25 }
+]
